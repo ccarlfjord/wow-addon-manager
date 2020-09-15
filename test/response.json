@@ -1,0 +1,2423 @@
+[
+  {
+    "id": 3358,
+    "name": "Deadly Boss Mods (DBM)",
+    "authors": [
+      {
+        "name": "MysticalOS",
+        "url": "https://www.curseforge.com/members/456264-mysticalos?username=mysticalos",
+        "projectId": 3358,
+        "id": 48864,
+        "projectTitleId": null,
+        "projectTitleTitle": null,
+        "userId": 456264,
+        "twitchId": 41282883
+      },
+      {
+        "name": "Tandanu",
+        "url": "https://www.curseforge.com/members/41673-tandanu?username=tandanu",
+        "projectId": 3358,
+        "id": 48865,
+        "projectTitleId": 2,
+        "projectTitleTitle": "Author",
+        "userId": 41673,
+        "twitchId": 26435239
+      },
+      {
+        "name": "qtartemis",
+        "url": "https://www.curseforge.com/members/101026306-qtartemis?username=qtartemis",
+        "projectId": 3358,
+        "id": 294388,
+        "projectTitleId": 2,
+        "projectTitleTitle": "Author",
+        "userId": 101026306,
+        "twitchId": 509388421
+      }
+    ],
+    "attachments": [
+      {
+        "id": 54520,
+        "projectId": 3358,
+        "description": "",
+        "isDefault": false,
+        "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/54/520/256/256/636135324678328410.jpg",
+        "title": "636135324678328410.jpg",
+        "url": "https://media.forgecdn.net/avatars/54/520/636135324678328410.jpg",
+        "status": 1
+      },
+      {
+        "id": 199661,
+        "projectId": 3358,
+        "description": "",
+        "isDefault": true,
+        "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/199/661/256/256/636908483866103322.png",
+        "title": "636908483866103322.png",
+        "url": "https://media.forgecdn.net/avatars/199/661/636908483866103322.png",
+        "status": 1
+      },
+      {
+        "id": 76031,
+        "projectId": 3358,
+        "description": "<p>DBM timers, with inline icons for even more bar distinction on top of the colors</p>",
+        "isDefault": false,
+        "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/76/31/310/172/dbm_timers.jpg",
+        "title": "dbm_timers.jpg",
+        "url": "https://media.forgecdn.net/attachments/76/31/dbm_timers.jpg",
+        "status": 1
+      },
+      {
+        "id": 76025,
+        "projectId": 3358,
+        "description": "<p>Support DBM on Patreon</p>\n",
+        "isDefault": false,
+        "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/76/25/310/172/patreon-medium-button.png",
+        "title": "patreon-medium-button.png",
+        "url": "https://media.forgecdn.net/attachments/76/25/patreon-medium-button.png",
+        "status": 1
+      },
+      {
+        "id": 76030,
+        "projectId": 3358,
+        "description": "<p>DBM boss mod config as it appears in 6.2</p>",
+        "isDefault": false,
+        "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/76/30/310/172/Screen_Shot_2015-07-06_at_7.10.03_AM.jpg",
+        "title": "Screen_Shot_2015-07-06_at_7.10.03_AM.jpg",
+        "url": "https://media.forgecdn.net/attachments/76/30/Screen_Shot_2015-07-06_at_7.10.03_AM.jpg",
+        "status": 1
+      },
+      {
+        "id": 76029,
+        "projectId": 3358,
+        "description": "<p>DBM stats as they appear in 6.2</p>",
+        "isDefault": false,
+        "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/76/29/310/172/Screen_Shot_2015-07-06_at_7.08.19_AM.jpg",
+        "title": "Screen_Shot_2015-07-06_at_7.08.19_AM.jpg",
+        "url": "https://media.forgecdn.net/attachments/76/29/Screen_Shot_2015-07-06_at_7.08.19_AM.jpg",
+        "status": 1
+      },
+      {
+        "id": 76027,
+        "projectId": 3358,
+        "description": "<p>Some raid warnings\n</p>",
+        "isDefault": false,
+        "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/76/27/310/172/dbm-warnings1.png",
+        "title": "dbm-warnings1.png",
+        "url": "https://media.forgecdn.net/attachments/76/27/dbm-warnings1.png",
+        "status": 1
+      },
+      {
+        "id": 202221,
+        "projectId": 3358,
+        "description": "",
+        "isDefault": false,
+        "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/202/221/310/172/voice_pack_selection.jpg",
+        "title": "Voice Pack Settings",
+        "url": "https://media.forgecdn.net/attachments/202/221/voice_pack_selection.jpg",
+        "status": 1
+      }
+    ],
+    "websiteUrl": "https://www.curseforge.com/wow/addons/deadly-boss-mods",
+    "gameId": 1,
+    "summary": "The ultimate encounter helper to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.",
+    "defaultFileId": 3018620,
+    "downloadCount": 285440724,
+    "latestFiles": [
+      {
+        "id": 2664112,
+        "displayName": "8.1.3 Beta",
+        "fileName": "DBM-svn-8.1.3-r18187-alpha.zip",
+        "fileDate": "2019-01-24T01:06:16.233Z",
+        "fileLength": 2342061,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2664/112/DBM-svn-8.1.3-r18187-alpha.zip",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 22923929,
+            "addonId": 20113,
+            "type": 1,
+            "fileId": 2664112
+          },
+          {
+            "id": 22923930,
+            "addonId": 51580,
+            "type": 1,
+            "fileId": 2664112
+          },
+          {
+            "id": 22923926,
+            "addonId": 14320,
+            "type": 1,
+            "fileId": 2664112
+          },
+          {
+            "id": 22923928,
+            "addonId": 15552,
+            "type": 1,
+            "fileId": 2664112
+          },
+          {
+            "id": 22923932,
+            "addonId": 95078,
+            "type": 1,
+            "fileId": 2664112
+          },
+          {
+            "id": 22923931,
+            "addonId": 94595,
+            "type": 1,
+            "fileId": 2664112
+          },
+          {
+            "id": 22923927,
+            "addonId": 14328,
+            "type": 1,
+            "fileId": 2664112
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "DBM-Party-BfA",
+            "fingerprint": 363524639,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-WorldEvents",
+            "fingerprint": 1716737526,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-Uldir",
+            "fingerprint": 3656541225,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-DMF",
+            "fingerprint": 4088668265,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-GUI",
+            "fingerprint": 4217720997,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-Brawlers",
+            "fingerprint": 1882850238,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-ZuldazarRaid",
+            "fingerprint": 3450880913,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-Core",
+            "fingerprint": 3076553852,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-CrucibleofStorms",
+            "fingerprint": 417273192,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-Azeroth-BfA",
+            "fingerprint": 993618257,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-StatusBarTimers",
+            "fingerprint": 320645368,
+            "type": 3
+          },
+          {
+            "foldername": "DBM-DefaultSkin",
+            "fingerprint": 2382200783,
+            "type": 3
+          }
+        ],
+        "packageFingerprint": 371540086,
+        "gameVersion": [
+          "8.1.0"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000008.0000000001.0000000000",
+            "gameVersion": "8.1.0",
+            "gameVersionReleaseDate": "2018-12-11T00:00:00Z",
+            "gameVersionName": "8.1.0"
+          }
+        ],
+        "installMetadata": null,
+        "changelog": null,
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 1,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1503312,
+        "fileLegacyMappingId": null,
+        "projectId": 3358,
+        "parentProjectFileId": null,
+        "parentFileLegacyMappingId": null,
+        "fileTypeId": null,
+        "exposeAsAlternative": null,
+        "packageFingerprintId": 288753358,
+        "gameVersionDateReleased": "2018-12-11T00:00:00Z",
+        "gameVersionMappingId": 1739507,
+        "gameVersionId": 7170,
+        "gameId": 1,
+        "isServerPack": false,
+        "serverPackFileId": null,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "id": 3018620,
+        "displayName": "8.3.29",
+        "fileName": "DBM-Core-8.3.29.zip",
+        "fileDate": "2020-07-30T03:21:59.207Z",
+        "fileLength": 3718150,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3018/620/DBM-Core-8.3.29.zip",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 45885199,
+            "addonId": 51580,
+            "type": 1,
+            "fileId": 3018620
+          },
+          {
+            "id": 45885201,
+            "addonId": 95078,
+            "type": 1,
+            "fileId": 3018620
+          },
+          {
+            "id": 45885200,
+            "addonId": 94595,
+            "type": 1,
+            "fileId": 3018620
+          },
+          {
+            "id": 45885198,
+            "addonId": 20113,
+            "type": 1,
+            "fileId": 3018620
+          },
+          {
+            "id": 45885194,
+            "addonId": 15049,
+            "type": 1,
+            "fileId": 3018620
+          },
+          {
+            "id": 45885196,
+            "addonId": 14328,
+            "type": 1,
+            "fileId": 3018620
+          },
+          {
+            "id": 45885197,
+            "addonId": 15552,
+            "type": 1,
+            "fileId": 3018620
+          },
+          {
+            "id": 45885195,
+            "addonId": 14320,
+            "type": 1,
+            "fileId": 3018620
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "DBM-Core",
+            "fingerprint": 2365381969,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-Brawlers",
+            "fingerprint": 1901464380,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-DMF",
+            "fingerprint": 3638059723,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-GUI",
+            "fingerprint": 2072604201,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-WorldEvents",
+            "fingerprint": 1809903702,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-Party-BfA",
+            "fingerprint": 843392889,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-Party-Shadowlands",
+            "fingerprint": 2948008258,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-Azeroth-BfA",
+            "fingerprint": 244509009,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-Uldir",
+            "fingerprint": 322727891,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-CrucibleofStorms",
+            "fingerprint": 2799143762,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-ZuldazarRaid",
+            "fingerprint": 2306639411,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-EternalPalace",
+            "fingerprint": 669913310,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-Nyalotha",
+            "fingerprint": 3236767800,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-CastleNathria",
+            "fingerprint": 4113604407,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-DefaultSkin",
+            "fingerprint": 460709238,
+            "type": 3
+          },
+          {
+            "foldername": "DBM-StatusBarTimers",
+            "fingerprint": 4159398911,
+            "type": 3
+          }
+        ],
+        "packageFingerprint": 3334115499,
+        "gameVersion": [
+          "8.3.0"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000008.0000000003.0000000000",
+            "gameVersion": "8.3.0",
+            "gameVersionReleaseDate": "2020-01-14T00:00:00Z",
+            "gameVersionName": "8.3.0"
+          }
+        ],
+        "installMetadata": null,
+        "changelog": null,
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 1,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1940160,
+        "fileLegacyMappingId": null,
+        "projectId": 3358,
+        "parentProjectFileId": null,
+        "parentFileLegacyMappingId": null,
+        "fileTypeId": null,
+        "exposeAsAlternative": null,
+        "packageFingerprintId": 496798642,
+        "gameVersionDateReleased": "2020-01-14T00:00:00Z",
+        "gameVersionMappingId": 2348373,
+        "gameVersionId": 7717,
+        "gameId": 1,
+        "isServerPack": false,
+        "serverPackFileId": null,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "id": 3018970,
+        "displayName": "1.13.54-classic",
+        "fileName": "DBM-Core-1.13.54-classic.zip",
+        "fileDate": "2020-07-30T15:56:23.593Z",
+        "fileLength": 3996573,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3018/970/DBM-Core-1.13.54-classic.zip",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 45908254,
+            "addonId": 94595,
+            "type": 1,
+            "fileId": 3018970
+          },
+          {
+            "id": 45908252,
+            "addonId": 14320,
+            "type": 1,
+            "fileId": 3018970
+          },
+          {
+            "id": 45908251,
+            "addonId": 95078,
+            "type": 1,
+            "fileId": 3018970
+          },
+          {
+            "id": 45908256,
+            "addonId": 51580,
+            "type": 1,
+            "fileId": 3018970
+          },
+          {
+            "id": 45908255,
+            "addonId": 14328,
+            "type": 1,
+            "fileId": 3018970
+          },
+          {
+            "id": 45908250,
+            "addonId": 15552,
+            "type": 1,
+            "fileId": 3018970
+          },
+          {
+            "id": 45908253,
+            "addonId": 15049,
+            "type": 1,
+            "fileId": 3018970
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "DBM-Core",
+            "fingerprint": 1077203609,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-GUI",
+            "fingerprint": 1156929731,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-Party-Classic",
+            "fingerprint": 1834656816,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-AQ20",
+            "fingerprint": 3901084132,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-AQ40",
+            "fingerprint": 1067641452,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-Azeroth",
+            "fingerprint": 108542162,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-BWL",
+            "fingerprint": 1557558589,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-MC",
+            "fingerprint": 1737353877,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-Onyxia",
+            "fingerprint": 482590763,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-Naxx",
+            "fingerprint": 3248918039,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-ZG",
+            "fingerprint": 3866711566,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-DefaultSkin",
+            "fingerprint": 1158327563,
+            "type": 3
+          },
+          {
+            "foldername": "DBM-StatusBarTimers",
+            "fingerprint": 2310291718,
+            "type": 3
+          }
+        ],
+        "packageFingerprint": 150755028,
+        "gameVersion": [
+          "1.13.5"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000013.0000000005",
+            "gameVersion": "1.13.5",
+            "gameVersionReleaseDate": "2020-07-07T00:00:00Z",
+            "gameVersionName": "1.13.5"
+          }
+        ],
+        "installMetadata": null,
+        "changelog": null,
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 1,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1940596,
+        "fileLegacyMappingId": null,
+        "projectId": 3358,
+        "parentProjectFileId": null,
+        "parentFileLegacyMappingId": null,
+        "fileTypeId": null,
+        "exposeAsAlternative": null,
+        "packageFingerprintId": 497014386,
+        "gameVersionDateReleased": "2020-07-07T00:00:00Z",
+        "gameVersionMappingId": 2348999,
+        "gameVersionId": 7957,
+        "gameId": 1,
+        "isServerPack": false,
+        "serverPackFileId": null,
+        "gameVersionFlavor": "wow_classic"
+      },
+      {
+        "id": 3020367,
+        "displayName": "8.3.29-9-gdf2c04e",
+        "fileName": "DBM-Core-8.3.29-9-gdf2c04e.zip",
+        "fileDate": "2020-08-01T02:26:22.4Z",
+        "fileLength": 3718336,
+        "releaseType": 3,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3020/367/DBM-Core-8.3.29-9-gdf2c04e.zip",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 46007934,
+            "addonId": 15552,
+            "type": 1,
+            "fileId": 3020367
+          },
+          {
+            "id": 46007937,
+            "addonId": 15049,
+            "type": 1,
+            "fileId": 3020367
+          },
+          {
+            "id": 46007935,
+            "addonId": 95078,
+            "type": 1,
+            "fileId": 3020367
+          },
+          {
+            "id": 46007939,
+            "addonId": 14328,
+            "type": 1,
+            "fileId": 3020367
+          },
+          {
+            "id": 46007938,
+            "addonId": 94595,
+            "type": 1,
+            "fileId": 3020367
+          },
+          {
+            "id": 46007936,
+            "addonId": 14320,
+            "type": 1,
+            "fileId": 3020367
+          },
+          {
+            "id": 46007940,
+            "addonId": 51580,
+            "type": 1,
+            "fileId": 3020367
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "DBM-Core",
+            "fingerprint": 2470653670,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-Brawlers",
+            "fingerprint": 3431585985,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-DMF",
+            "fingerprint": 4085485480,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-GUI",
+            "fingerprint": 3238985207,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-WorldEvents",
+            "fingerprint": 3167368107,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-Party-BfA",
+            "fingerprint": 3849411200,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-Party-Shadowlands",
+            "fingerprint": 1314946756,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-Azeroth-BfA",
+            "fingerprint": 138616698,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-Uldir",
+            "fingerprint": 4033043867,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-CrucibleofStorms",
+            "fingerprint": 1531781981,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-ZuldazarRaid",
+            "fingerprint": 1496412859,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-EternalPalace",
+            "fingerprint": 2569942274,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-Nyalotha",
+            "fingerprint": 82405608,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-CastleNathria",
+            "fingerprint": 4011163442,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-DefaultSkin",
+            "fingerprint": 460709238,
+            "type": 3
+          },
+          {
+            "foldername": "DBM-StatusBarTimers",
+            "fingerprint": 4159398911,
+            "type": 3
+          }
+        ],
+        "packageFingerprint": 3975453503,
+        "gameVersion": [
+          "8.3.0"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000008.0000000003.0000000000",
+            "gameVersion": "8.3.0",
+            "gameVersionReleaseDate": "2020-01-14T00:00:00Z",
+            "gameVersionName": "8.3.0"
+          }
+        ],
+        "installMetadata": null,
+        "changelog": null,
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 1,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1942366,
+        "fileLegacyMappingId": null,
+        "projectId": 3358,
+        "parentProjectFileId": null,
+        "parentFileLegacyMappingId": null,
+        "fileTypeId": null,
+        "exposeAsAlternative": null,
+        "packageFingerprintId": 497843018,
+        "gameVersionDateReleased": "2020-01-14T00:00:00Z",
+        "gameVersionMappingId": 2351555,
+        "gameVersionId": 7717,
+        "gameId": 1,
+        "isServerPack": false,
+        "serverPackFileId": null,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "id": 3020368,
+        "displayName": "1.13.54-20-ge0ae082-classic",
+        "fileName": "DBM-Core-1.13.54-20-ge0ae082-classic.zip",
+        "fileDate": "2020-08-01T02:33:06.02Z",
+        "fileLength": 3999562,
+        "releaseType": 3,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3020/368/DBM-Core-1.13.54-20-ge0ae082-classic.zip",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 46007943,
+            "addonId": 14320,
+            "type": 1,
+            "fileId": 3020368
+          },
+          {
+            "id": 46007945,
+            "addonId": 94595,
+            "type": 1,
+            "fileId": 3020368
+          },
+          {
+            "id": 46007946,
+            "addonId": 14328,
+            "type": 1,
+            "fileId": 3020368
+          },
+          {
+            "id": 46007944,
+            "addonId": 15049,
+            "type": 1,
+            "fileId": 3020368
+          },
+          {
+            "id": 46007942,
+            "addonId": 95078,
+            "type": 1,
+            "fileId": 3020368
+          },
+          {
+            "id": 46007941,
+            "addonId": 15552,
+            "type": 1,
+            "fileId": 3020368
+          },
+          {
+            "id": 46007947,
+            "addonId": 51580,
+            "type": 1,
+            "fileId": 3020368
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "DBM-Core",
+            "fingerprint": 2290512021,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-GUI",
+            "fingerprint": 69816518,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-Party-Classic",
+            "fingerprint": 1674348415,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-AQ20",
+            "fingerprint": 600763320,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-AQ40",
+            "fingerprint": 1423299736,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-Azeroth",
+            "fingerprint": 3420307140,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-BWL",
+            "fingerprint": 4265093598,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-MC",
+            "fingerprint": 630198111,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-Onyxia",
+            "fingerprint": 1544046520,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-Naxx",
+            "fingerprint": 3454460056,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-ZG",
+            "fingerprint": 3866711566,
+            "type": 2
+          },
+          {
+            "foldername": "DBM-DefaultSkin",
+            "fingerprint": 1158327563,
+            "type": 3
+          },
+          {
+            "foldername": "DBM-StatusBarTimers",
+            "fingerprint": 2310291718,
+            "type": 3
+          }
+        ],
+        "packageFingerprint": 2370764737,
+        "gameVersion": [
+          "1.13.5"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000013.0000000005",
+            "gameVersion": "1.13.5",
+            "gameVersionReleaseDate": "2020-07-07T00:00:00Z",
+            "gameVersionName": "1.13.5"
+          }
+        ],
+        "installMetadata": null,
+        "changelog": null,
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 1,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1942369,
+        "fileLegacyMappingId": null,
+        "projectId": 3358,
+        "parentProjectFileId": null,
+        "parentFileLegacyMappingId": null,
+        "fileTypeId": null,
+        "exposeAsAlternative": null,
+        "packageFingerprintId": 497843526,
+        "gameVersionDateReleased": "2020-07-07T00:00:00Z",
+        "gameVersionMappingId": 2351556,
+        "gameVersionId": 7957,
+        "gameId": 1,
+        "isServerPack": false,
+        "serverPackFileId": null,
+        "gameVersionFlavor": "wow_classic"
+      }
+    ],
+    "categories": [
+      {
+        "categoryId": 1019,
+        "name": "Combat",
+        "url": "https://www.curseforge.com/wow/addons/combat",
+        "avatarUrl": "https://media.forgecdn.net/avatars/54/455/636135209724699753.png",
+        "parentId": 1,
+        "rootId": 1,
+        "projectId": 3358,
+        "avatarId": 54455,
+        "gameId": 1
+      },
+      {
+        "categoryId": 1014,
+        "name": "Boss Encounters",
+        "url": "https://www.curseforge.com/wow/addons/boss-encounters",
+        "avatarUrl": "https://media.forgecdn.net/avatars/54/450/636135209695287536.png",
+        "parentId": 1,
+        "rootId": 1,
+        "projectId": 3358,
+        "avatarId": 54450,
+        "gameId": 1
+      },
+      {
+        "categoryId": 1004,
+        "name": "PvP",
+        "url": "https://www.curseforge.com/wow/addons/pvp",
+        "avatarUrl": "https://media.forgecdn.net/avatars/54/440/636135209635968438.png",
+        "parentId": 1,
+        "rootId": 1,
+        "projectId": 3358,
+        "avatarId": 54440,
+        "gameId": 1
+      }
+    ],
+    "status": 4,
+    "primaryCategoryId": 1014,
+    "categorySection": {
+      "id": 1,
+      "gameId": 1,
+      "name": "Addons",
+      "packageType": 1,
+      "path": "Interface\\Addons",
+      "initialInclusionPattern": "(?i)^([^/]+)[\\\\/]\\1\\.toc$",
+      "extraIncludePattern": "(?i)^[^/\\\\]+[/\\\\]Bindings\\.xml$",
+      "gameCategoryId": 1
+    },
+    "slug": "deadly-boss-mods",
+    "gameVersionLatestFiles": [
+      {
+        "gameVersion": "1.13.5",
+        "projectFileId": 3020368,
+        "projectFileName": "DBM-Core-1.13.54-20-ge0ae082-classic.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_classic"
+      },
+      {
+        "gameVersion": "8.3.0",
+        "projectFileId": 3020367,
+        "projectFileName": "DBM-Core-8.3.29-9-gdf2c04e.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "1.13.5",
+        "projectFileId": 3018970,
+        "projectFileName": "DBM-Core-1.13.54-classic.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_classic"
+      },
+      {
+        "gameVersion": "8.3.0",
+        "projectFileId": 3018620,
+        "projectFileName": "DBM-Core-8.3.29.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "9.0.1",
+        "projectFileId": 3013206,
+        "projectFileName": "DBM-Core-8.3.28-14-g9c41476.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "9.0.1",
+        "projectFileId": 3010930,
+        "projectFileName": "DBM-Core-8.3.28.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "1.13.4",
+        "projectFileId": 2998598,
+        "projectFileName": "DBM-Core-1.13.52-8-g6bc4abe-classic.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_classic"
+      },
+      {
+        "gameVersion": "1.13.4",
+        "projectFileId": 2998461,
+        "projectFileName": "DBM-Core-1.13.52-classic.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_classic"
+      },
+      {
+        "gameVersion": "1.13.3",
+        "projectFileId": 2898807,
+        "projectFileName": "DBM-Core-1.13.39-7-gc88157d-classic.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_classic"
+      },
+      {
+        "gameVersion": "1.13.3",
+        "projectFileId": 2888664,
+        "projectFileName": "DBM-Core-1.13.38-classic.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_classic"
+      },
+      {
+        "gameVersion": "8.2.5",
+        "projectFileId": 2860202,
+        "projectFileName": "DBM-Core-8.3.0.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "8.2.5",
+        "projectFileId": 2860182,
+        "projectFileName": "DBM-Core-8.2.31-23-ge34c166.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "1.13.2",
+        "projectFileId": 2839553,
+        "projectFileName": "DBM-Core-1.13.23-3-g8cad6c5-classic.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_classic"
+      },
+      {
+        "gameVersion": "1.13.2",
+        "projectFileId": 2837238,
+        "projectFileName": "DBM-Core-1.13.23-classic.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_classic"
+      },
+      {
+        "gameVersion": "8.2.0",
+        "projectFileId": 2791148,
+        "projectFileName": "DBM-Core-8.2.19-9-g6e911ca.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "8.2.0",
+        "projectFileId": 2787254,
+        "projectFileName": "DBM-Core-8.2.19.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "8.1.5",
+        "projectFileId": 2729015,
+        "projectFileName": "DBM-Core-8.1.26-79-gc75cd74c9-alpha.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "8.1.5",
+        "projectFileId": 2714975,
+        "projectFileName": "DBM-Core-8.1.26.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "8.1.0",
+        "projectFileId": 2695269,
+        "projectFileName": "DBM-8.1.14-r18480-Core-and-BfA-Mods.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "8.1.0",
+        "projectFileId": 2684466,
+        "projectFileName": "DBM-Core-8.1.11-20-g12ee7a3ae-alpha.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "8.1.0",
+        "projectFileId": 2664112,
+        "projectFileName": "DBM-svn-8.1.3-r18187-alpha.zip",
+        "fileType": 2,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "8.0.1",
+        "projectFileId": 2646875,
+        "projectFileName": "DBM-Core-8.1.0-3-gaa82cb4f1-alpha.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "8.0.1",
+        "projectFileId": 2646562,
+        "projectFileName": "DBM-Core-8.1.0.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "7.3.5",
+        "projectFileId": 2581960,
+        "projectFileName": "DBM-Core-7.3.31-23-gc9786eefa-alpha.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "7.3.5",
+        "projectFileId": 2573089,
+        "projectFileName": "DBM-Core-7.3.31.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "7.3.0",
+        "projectFileId": 2521175,
+        "projectFileName": "DBM-Core-7.3.17-14-gf64e66f-alpha.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "7.3.0",
+        "projectFileId": 2519215,
+        "projectFileName": "DBM-Core-7.3.17.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "7.2.5",
+        "projectFileId": 2470460,
+        "projectFileName": "DBM-Core-7.2.18-39-gec65233-alpha.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "7.2.5",
+        "projectFileId": 2467952,
+        "projectFileName": "DBM-Core-7.2.18.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "7.2.0",
+        "projectFileId": 2432817,
+        "projectFileName": "DBM-Core-7.2.7-24-gf394340-alpha.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "7.2.0",
+        "projectFileId": 2423810,
+        "projectFileName": "DBM-Core-7.2.7.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "7.1.5",
+        "projectFileId": 2398230,
+        "projectFileName": "DBM-Core-30c8f00-alpha.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "7.1.5",
+        "projectFileId": 2396893,
+        "projectFileName": "DBM-Core-7.1.18.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "7.1.0",
+        "projectFileId": 2366732,
+        "projectFileName": "DBM-Core-28ec399-alpha.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "7.1.0",
+        "projectFileId": 2366614,
+        "projectFileName": "DBM-Core-7.1.7.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "7.0.3",
+        "projectFileId": 950847,
+        "projectFileName": "DBM-Core-7.0.12-31-g4b4cd96.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "7.0.3",
+        "projectFileId": 950031,
+        "projectFileName": "DBM-Core-7.0.12.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "6.2.4",
+        "projectFileId": 924791,
+        "projectFileName": "DBM-Core-6.2.23-60-gb232111.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "6.2.4",
+        "projectFileId": 920359,
+        "projectFileName": "DBM-Core-6.2.23.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "6.2.3",
+        "projectFileId": 913252,
+        "projectFileName": "DBM-Core-6.2.20-1-g70b79c6.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "6.2.3",
+        "projectFileId": 913251,
+        "projectFileName": "DBM-Core-6.2.20.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "6.2.2",
+        "projectFileId": 902887,
+        "projectFileName": "DBM-Core-6.2.14-32-g74a09b7.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "6.2.2",
+        "projectFileId": 901264,
+        "projectFileName": "DBM-Core-6.2.14.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "6.2.0",
+        "projectFileId": 896164,
+        "projectFileName": "DBM-Core-6.2.10-10-g58b2868.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "6.2.0",
+        "projectFileId": 895725,
+        "projectFileName": "DBM-6.2.10-r14445-Core-and-Draenor-Mods.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "6.1.0",
+        "projectFileId": 883001,
+        "projectFileName": "DBM-Core-6.1.10-33-gee3dd7c.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "6.1.0",
+        "projectFileId": 881842,
+        "projectFileName": "DBM-Core-6.1.10.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "6.0.3",
+        "projectFileId": 862728,
+        "projectFileName": "DBM-Core-6.0.16-65-gfe743a6.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "6.0.3",
+        "projectFileId": 861986,
+        "projectFileName": "DBM-Core-6.0.16.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "6.0.2",
+        "projectFileId": 826358,
+        "projectFileName": "DBM-Core-6.0.3-26-g41bf685.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "6.0.2",
+        "projectFileId": 823405,
+        "projectFileName": "DBM-Core-6.0.3.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "5.4.8",
+        "projectFileId": 817468,
+        "projectFileName": "DBM-Core-5.4.19-33-g860edf6.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "6.0.1",
+        "projectFileId": 815610,
+        "projectFileName": "DBM-Core-5.4.19-20-ge2933d8.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "5.4.8",
+        "projectFileId": 812329,
+        "projectFileName": "DBM-Core-5.4.19.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "5.4.7",
+        "projectFileId": 791802,
+        "projectFileName": "DBM-Core-5.4.14-2-gd73034d.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "5.4.7",
+        "projectFileId": 791204,
+        "projectFileName": "DBM-Core-5.4.14.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "5.4.2",
+        "projectFileId": 778241,
+        "projectFileName": "DBM-Core-5.4.9-39-g7be7316.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "5.4.2",
+        "projectFileId": 774567,
+        "projectFileName": "DBM-5.4.10-r11061-Core-and-Pandaria-Mods.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "5.4.1",
+        "projectFileId": 759027,
+        "projectFileName": "DBM-Core-5.4.5-16-gca242c8.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "5.4.1",
+        "projectFileId": 755365,
+        "projectFileName": "DBM-Core-5.4.5.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "5.4.0",
+        "projectFileId": 750639,
+        "projectFileName": "DBM-Core-5.4.4-22-gbf304d8.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "5.4.0",
+        "projectFileId": 749123,
+        "projectFileName": "DBM-Core-5.4.4.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "5.3.0",
+        "projectFileId": 732087,
+        "projectFileName": "DBM-Core-5.3.6-86-g3d7bda3.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "5.3.0",
+        "projectFileId": 728938,
+        "projectFileName": "DBM-Core-5.3.6.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "5.2.0",
+        "projectFileId": 703101,
+        "projectFileName": "DBM-Core-5.2.5-164-g37f65f9.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "5.2.0",
+        "projectFileId": 698786,
+        "projectFileName": "DBM-Core-5.2.5.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "5.1.0",
+        "projectFileId": 677481,
+        "projectFileName": "DBM-Core-5.1.0-404-g20c9056.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "5.1.0",
+        "projectFileId": 659934,
+        "projectFileName": "DBM-Core-5.1.0.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "5.0.5",
+        "projectFileId": 650384,
+        "projectFileName": "DBM-Core-4.11.5-89-g535fbe4.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "5.0.5",
+        "projectFileId": 646063,
+        "projectFileName": "DBM-Core-4.11.5.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "5.0.4",
+        "projectFileId": 625583,
+        "projectFileName": "DBM-Core-4.11.1-24-g49dec38.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "5.0.4",
+        "projectFileId": 620363,
+        "projectFileName": "DBM-Core-4.11.1.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "4.3.4",
+        "projectFileId": 612501,
+        "projectFileName": "DBM-Core-4.10.12-53-g96c5aad.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "4.3.3",
+        "projectFileId": 608290,
+        "projectFileName": "DBM-4.10.14-r7705-Core-and-Cataclysm-Mods.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "4.3.4",
+        "projectFileId": 608290,
+        "projectFileName": "DBM-4.10.14-r7705-Core-and-Cataclysm-Mods.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "4.3.3",
+        "projectFileId": 602746,
+        "projectFileName": "DBM-Core-4.10.12-20-gec3795a.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "4.3.0",
+        "projectFileId": 602746,
+        "projectFileName": "DBM-Core-4.10.12-20-gec3795a.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "4.3.0",
+        "projectFileId": 596699,
+        "projectFileName": "DBM-4.10.12-r7536-Core-and-Cataclysm-Mods.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "4.2.0",
+        "projectFileId": 555034,
+        "projectFileName": "DBM-Core-DBM-4.10.0-233-g950d520.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "4.2.0",
+        "projectFileId": 548537,
+        "projectFileName": "DBM-Core-DBM-4.10.0-117-gea5f9b9.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "4.1.0",
+        "projectFileId": 526085,
+        "projectFileName": "DBM-svn-4.83-r6010-alpha.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "4.1.0",
+        "projectFileId": 519133,
+        "projectFileName": "DBM-4.82-r5726-Core-and-Cataclysm-Mods.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "4.0.6",
+        "projectFileId": 513969,
+        "projectFileName": "DBM-svn-4.75-r5590-alpha.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "4.0.6",
+        "projectFileId": 505815,
+        "projectFileName": "DBM-4.74-r5279-Core-and-Cataclysm-Mods.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "4.0.1",
+        "projectFileId": 470095,
+        "projectFileName": "DBM-4.64-r4605-Core-and-WotLK-Mods.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "3.3.5",
+        "projectFileId": 447605,
+        "projectFileName": "DBM-4.52-r4442-Core-and-WotLK-Mods.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "3.3.3",
+        "projectFileId": 427237,
+        "projectFileName": "DBM-4.46-r4036-Core-and-WotLK-Mods.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "3.3.0",
+        "projectFileId": 420713,
+        "projectFileName": "DBM-4.44-r3851-Core-and-WotLK-Mods.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "3.2.0",
+        "projectFileId": 396768,
+        "projectFileName": "DBM-4.30-r2373-Core-and-WotLK-Mods.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "3.1.0",
+        "projectFileId": 361955,
+        "projectFileName": "DBM-4.16-r1202-Core-and-WotLK-Mods.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "3.0.3",
+        "projectFileId": 318792,
+        "projectFileName": "DBM-4.05-r638-Core-and-WotLK-Mods.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      }
+    ],
+    "isFeatured": false,
+    "popularityScore": 198405.28125,
+    "gamePopularityRank": 1,
+    "primaryLanguage": "enUS",
+    "gameSlug": "wow",
+    "gameName": "World of Warcraft",
+    "portalName": "www.curseforge.com",
+    "dateModified": "2020-08-01T02:33:41.703Z",
+    "dateCreated": "2008-04-29T12:50:26Z",
+    "dateReleased": "2020-08-01T02:33:06.02Z",
+    "isAvailable": true,
+    "isExperiemental": false
+  },
+  {
+    "id": 61882,
+    "name": "Deadly Boss Mods (DBM) - PvP Mods",
+    "authors": [
+      {
+        "name": "MysticalOS",
+        "url": "https://www.curseforge.com/members/456264-mysticalos?username=mysticalos",
+        "projectId": 61882,
+        "id": 59561,
+        "projectTitleId": 41,
+        "projectTitleTitle": "Author",
+        "userId": 456264,
+        "twitchId": 41282883
+      },
+      {
+        "name": "qtartemis",
+        "url": "https://www.curseforge.com/members/101026306-qtartemis?username=qtartemis",
+        "projectId": 61882,
+        "id": 294382,
+        "projectTitleId": 2,
+        "projectTitleTitle": "Author",
+        "userId": 101026306,
+        "twitchId": 509388421
+      }
+    ],
+    "attachments": [
+      {
+        "id": 57708,
+        "projectId": 61882,
+        "description": "",
+        "isDefault": false,
+        "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/57/708/256/256/636141415759990930.png",
+        "title": "636141415759990930.png",
+        "url": "https://media.forgecdn.net/avatars/57/708/636141415759990930.png",
+        "status": 1
+      },
+      {
+        "id": 199749,
+        "projectId": 61882,
+        "description": "",
+        "isDefault": true,
+        "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/199/749/256/256/636908823939060567.png",
+        "title": "636908823939060567.png",
+        "url": "https://media.forgecdn.net/avatars/199/749/636908823939060567.png",
+        "status": 1
+      },
+      {
+        "id": 89465,
+        "projectId": 61882,
+        "description": "<p>Image of PVP Timers</p>",
+        "isDefault": false,
+        "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/89/465/310/172/dbm-pvp1.png",
+        "title": "dbm-pvp1.png",
+        "url": "https://media.forgecdn.net/attachments/89/465/dbm-pvp1.png",
+        "status": 1
+      }
+    ],
+    "websiteUrl": "https://www.curseforge.com/wow/addons/dbm-pvp",
+    "gameId": 1,
+    "summary": "Deadly Boss Mods for Battlegrounds and Arenas",
+    "defaultFileId": 3017943,
+    "downloadCount": 5824284,
+    "latestFiles": [
+      {
+        "id": 3017940,
+        "displayName": "r92-3-geaf5ca5",
+        "fileName": "DBM-PvP-r92-3-geaf5ca5.zip",
+        "fileDate": "2020-07-29T09:54:38.157Z",
+        "fileLength": 39441,
+        "releaseType": 3,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3017/940/DBM-PvP-r92-3-geaf5ca5.zip",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 45837386,
+            "addonId": 3358,
+            "type": 3,
+            "fileId": 3017940
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "DBM-PvP",
+            "fingerprint": 2383227053,
+            "type": 3
+          }
+        ],
+        "packageFingerprint": 428003608,
+        "gameVersion": [
+          "8.3.0"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000008.0000000003.0000000000",
+            "gameVersion": "8.3.0",
+            "gameVersionReleaseDate": "2020-01-14T00:00:00Z",
+            "gameVersionName": "8.3.0"
+          }
+        ],
+        "installMetadata": null,
+        "changelog": null,
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 1,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1939330,
+        "fileLegacyMappingId": null,
+        "projectId": 61882,
+        "parentProjectFileId": null,
+        "parentFileLegacyMappingId": null,
+        "fileTypeId": null,
+        "exposeAsAlternative": null,
+        "packageFingerprintId": 496397122,
+        "gameVersionDateReleased": "2020-01-14T00:00:00Z",
+        "gameVersionMappingId": 2347030,
+        "gameVersionId": 7717,
+        "gameId": 1,
+        "isServerPack": false,
+        "serverPackFileId": null,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "id": 3017941,
+        "displayName": "r92-3-geaf5ca5-classic",
+        "fileName": "DBM-PvP-r92-3-geaf5ca5-classic.zip",
+        "fileDate": "2020-07-29T09:54:40.83Z",
+        "fileLength": 39441,
+        "releaseType": 3,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3017/941/DBM-PvP-r92-3-geaf5ca5-classic.zip",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 45837387,
+            "addonId": 3358,
+            "type": 3,
+            "fileId": 3017941
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "DBM-PvP",
+            "fingerprint": 3610939038,
+            "type": 3
+          }
+        ],
+        "packageFingerprint": 686763342,
+        "gameVersion": [
+          "1.13.5"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000013.0000000005",
+            "gameVersion": "1.13.5",
+            "gameVersionReleaseDate": "2020-07-07T00:00:00Z",
+            "gameVersionName": "1.13.5"
+          }
+        ],
+        "installMetadata": null,
+        "changelog": null,
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 1,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1939331,
+        "fileLegacyMappingId": null,
+        "projectId": 61882,
+        "parentProjectFileId": null,
+        "parentFileLegacyMappingId": null,
+        "fileTypeId": null,
+        "exposeAsAlternative": null,
+        "packageFingerprintId": 496397150,
+        "gameVersionDateReleased": "2020-07-07T00:00:00Z",
+        "gameVersionMappingId": 2347031,
+        "gameVersionId": 7957,
+        "gameId": 1,
+        "isServerPack": false,
+        "serverPackFileId": null,
+        "gameVersionFlavor": "wow_classic"
+      },
+      {
+        "id": 3017943,
+        "displayName": "r93",
+        "fileName": "DBM-PvP-r93.zip",
+        "fileDate": "2020-07-29T09:56:54.477Z",
+        "fileLength": 39546,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3017/943/DBM-PvP-r93.zip",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 45837824,
+            "addonId": 3358,
+            "type": 3,
+            "fileId": 3017943
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "DBM-PvP",
+            "fingerprint": 4084574125,
+            "type": 3
+          }
+        ],
+        "packageFingerprint": 2403975966,
+        "gameVersion": [
+          "8.3.0"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000008.0000000003.0000000000",
+            "gameVersion": "8.3.0",
+            "gameVersionReleaseDate": "2020-01-14T00:00:00Z",
+            "gameVersionName": "8.3.0"
+          }
+        ],
+        "installMetadata": null,
+        "changelog": null,
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 1,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1939334,
+        "fileLegacyMappingId": null,
+        "projectId": 61882,
+        "parentProjectFileId": null,
+        "parentFileLegacyMappingId": null,
+        "fileTypeId": null,
+        "exposeAsAlternative": null,
+        "packageFingerprintId": 496397801,
+        "gameVersionDateReleased": "2020-01-14T00:00:00Z",
+        "gameVersionMappingId": 2347039,
+        "gameVersionId": 7717,
+        "gameId": 1,
+        "isServerPack": false,
+        "serverPackFileId": null,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "id": 3017944,
+        "displayName": "r93-classic",
+        "fileName": "DBM-PvP-r93-classic.zip",
+        "fileDate": "2020-07-29T09:56:58.55Z",
+        "fileLength": 39545,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3017/944/DBM-PvP-r93-classic.zip",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 45837823,
+            "addonId": 3358,
+            "type": 3,
+            "fileId": 3017944
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "DBM-PvP",
+            "fingerprint": 1714956902,
+            "type": 3
+          }
+        ],
+        "packageFingerprint": 2727238398,
+        "gameVersion": [
+          "1.13.5"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000013.0000000005",
+            "gameVersion": "1.13.5",
+            "gameVersionReleaseDate": "2020-07-07T00:00:00Z",
+            "gameVersionName": "1.13.5"
+          }
+        ],
+        "installMetadata": null,
+        "changelog": null,
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 1,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1939335,
+        "fileLegacyMappingId": null,
+        "projectId": 61882,
+        "parentProjectFileId": null,
+        "parentFileLegacyMappingId": null,
+        "fileTypeId": null,
+        "exposeAsAlternative": null,
+        "packageFingerprintId": 496397829,
+        "gameVersionDateReleased": "2020-07-07T00:00:00Z",
+        "gameVersionMappingId": 2347034,
+        "gameVersionId": 7957,
+        "gameId": 1,
+        "isServerPack": false,
+        "serverPackFileId": null,
+        "gameVersionFlavor": "wow_classic"
+      }
+    ],
+    "categories": [
+      {
+        "categoryId": 1004,
+        "name": "PvP",
+        "url": "https://www.curseforge.com/wow/addons/pvp",
+        "avatarUrl": "https://media.forgecdn.net/avatars/54/440/636135209635968438.png",
+        "parentId": 1,
+        "rootId": 1,
+        "projectId": 61882,
+        "avatarId": 54440,
+        "gameId": 1
+      },
+      {
+        "categoryId": 1041,
+        "name": "Battleground",
+        "url": "https://www.curseforge.com/wow/addons/pvp/battleground",
+        "avatarUrl": "https://media.forgecdn.net/avatars/54/504/636135210006650899.png",
+        "parentId": 1004,
+        "rootId": 1,
+        "projectId": 61882,
+        "avatarId": 54504,
+        "gameId": 1
+      },
+      {
+        "categoryId": 1019,
+        "name": "Combat",
+        "url": "https://www.curseforge.com/wow/addons/combat",
+        "avatarUrl": "https://media.forgecdn.net/avatars/54/455/636135209724699753.png",
+        "parentId": 1,
+        "rootId": 1,
+        "projectId": 61882,
+        "avatarId": 54455,
+        "gameId": 1
+      },
+      {
+        "categoryId": 1040,
+        "name": "Arena",
+        "url": "https://www.curseforge.com/wow/addons/pvp/arena",
+        "avatarUrl": "https://media.forgecdn.net/avatars/54/503/636135209999463325.png",
+        "parentId": 1004,
+        "rootId": 1,
+        "projectId": 61882,
+        "avatarId": 54503,
+        "gameId": 1
+      },
+      {
+        "categoryId": 1014,
+        "name": "Boss Encounters",
+        "url": "https://www.curseforge.com/wow/addons/boss-encounters",
+        "avatarUrl": "https://media.forgecdn.net/avatars/54/450/636135209695287536.png",
+        "parentId": 1,
+        "rootId": 1,
+        "projectId": 61882,
+        "avatarId": 54450,
+        "gameId": 1
+      }
+    ],
+    "status": 4,
+    "primaryCategoryId": 1004,
+    "categorySection": {
+      "id": 1,
+      "gameId": 1,
+      "name": "Addons",
+      "packageType": 1,
+      "path": "Interface\\Addons",
+      "initialInclusionPattern": "(?i)^([^/]+)[\\\\/]\\1\\.toc$",
+      "extraIncludePattern": "(?i)^[^/\\\\]+[/\\\\]Bindings\\.xml$",
+      "gameCategoryId": 1
+    },
+    "slug": "dbm-pvp",
+    "gameVersionLatestFiles": [
+      {
+        "gameVersion": "1.13.5",
+        "projectFileId": 3017944,
+        "projectFileName": "DBM-PvP-r93-classic.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_classic"
+      },
+      {
+        "gameVersion": "8.3.0",
+        "projectFileId": 3017943,
+        "projectFileName": "DBM-PvP-r93.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "1.13.5",
+        "projectFileId": 3017941,
+        "projectFileName": "DBM-PvP-r92-3-geaf5ca5-classic.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_classic"
+      },
+      {
+        "gameVersion": "8.3.0",
+        "projectFileId": 3017940,
+        "projectFileName": "DBM-PvP-r92-3-geaf5ca5.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "1.13.4",
+        "projectFileId": 2998524,
+        "projectFileName": "DBM-PvP-r92-classic.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_classic"
+      },
+      {
+        "gameVersion": "1.13.4",
+        "projectFileId": 2998509,
+        "projectFileName": "DBM-PvP-r91-9-g87aaaba-classic.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_classic"
+      },
+      {
+        "gameVersion": "1.13.3",
+        "projectFileId": 2902355,
+        "projectFileName": "DBM-PvP-r83-7-g17da81b-classic.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_classic"
+      },
+      {
+        "gameVersion": "1.13.3",
+        "projectFileId": 2898056,
+        "projectFileName": "DBM-PvP-r83-classic.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_classic"
+      },
+      {
+        "gameVersion": "8.2.5",
+        "projectFileId": 2860191,
+        "projectFileName": "DBM-PvP-r79.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "8.2.5",
+        "projectFileId": 2860165,
+        "projectFileName": "DBM-PvP-r78-1-gf00c50a.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "1.13.2",
+        "projectFileId": 2841593,
+        "projectFileName": "DBM-PvP-r76-3-g31b35f6-classic.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_classic"
+      },
+      {
+        "gameVersion": "1.13.2",
+        "projectFileId": 2801100,
+        "projectFileName": "DBM-PvP-r76-classic.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_classic"
+      },
+      {
+        "gameVersion": "8.2.0",
+        "projectFileId": 2781690,
+        "projectFileName": "DBM-PvP-r74-1-gfc8ebbc.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "8.2.0",
+        "projectFileId": 2781454,
+        "projectFileName": "DBM-PvP-r74.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "7.3.5",
+        "projectFileId": 2539429,
+        "projectFileName": "DBM-PvP-r73.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "7.3.0",
+        "projectFileId": 2486786,
+        "projectFileName": "DBM-PvP-r68.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "7.2.0",
+        "projectFileId": 2410964,
+        "projectFileName": "DBM-PvP-r65.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "7.0.3",
+        "projectFileId": 930707,
+        "projectFileName": "DBM-PvP-r59.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "6.2.0",
+        "projectFileId": 894817,
+        "projectFileName": "DBM-PvP-r56.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "6.1.0",
+        "projectFileId": 881066,
+        "projectFileName": "DBM-PvP-r48.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "6.0.3",
+        "projectFileId": 857849,
+        "projectFileName": "DBM-PvP-r43.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "6.0.2",
+        "projectFileId": 818246,
+        "projectFileName": "DBM-PvP-r36.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "5.4.8",
+        "projectFileId": 811336,
+        "projectFileName": "DBM-PvP-r35.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "5.4.7",
+        "projectFileId": 790044,
+        "projectFileName": "DBM-PvP-r29.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "5.4.2",
+        "projectFileId": 769037,
+        "projectFileName": "DBM-PvP-r25.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "5.4.1",
+        "projectFileId": 755959,
+        "projectFileName": "DBM-PvP-r23.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "5.4.0",
+        "projectFileId": 745099,
+        "projectFileName": "DBM-PvP-r21.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "5.3.0",
+        "projectFileId": 724307,
+        "projectFileName": "DBM-PvP-r6.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_retail"
+      },
+      {
+        "gameVersion": "5.3.0",
+        "projectFileId": 722549,
+        "projectFileName": "DBM-PvP-r4.zip",
+        "fileType": 3,
+        "gameVersionFlavor": "wow_retail"
+      }
+    ],
+    "isFeatured": false,
+    "popularityScore": 28900.88671875,
+    "gamePopularityRank": 33,
+    "primaryLanguage": "enUS",
+    "gameSlug": "wow",
+    "gameName": "World of Warcraft",
+    "portalName": "www.curseforge.com",
+    "dateModified": "2020-07-29T10:01:27.1Z",
+    "dateCreated": "2013-07-19T19:04:05.017Z",
+    "dateReleased": "2020-07-29T09:56:58.55Z",
+    "isAvailable": true,
+    "isExperiemental": false
+  },
+  {
+    "id": 363640,
+    "name": "DBM Voice Pack - Dowbones Classic",
+    "authors": [
+      {
+        "name": "tackystuff",
+        "url": "https://www.curseforge.com/members/100844435-tackystuff?username=tackystuff",
+        "projectId": 363640,
+        "id": 269346,
+        "projectTitleId": null,
+        "projectTitleTitle": null,
+        "userId": 100844435,
+        "twitchId": 138370015
+      }
+    ],
+    "attachments": [
+      {
+        "id": 250235,
+        "projectId": 363640,
+        "description": "",
+        "isDefault": true,
+        "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/250/235/256/256/637177648119149452.png",
+        "title": "637177648119149452.png",
+        "url": "https://media.forgecdn.net/avatars/250/235/637177648119149452.png",
+        "status": 1
+      },
+      {
+        "id": 279261,
+        "projectId": 363640,
+        "description": "",
+        "isDefault": false,
+        "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/279/261/310/172/enable.png",
+        "title": "ENABLE",
+        "url": "https://media.forgecdn.net/attachments/279/261/enable.png",
+        "status": 1
+      }
+    ],
+    "websiteUrl": "https://www.curseforge.com/wow/addons/dbm-voice-pack-dowbones-classic",
+    "gameId": 1,
+    "summary": "The only WoW Classic DBM Voice Pack you'll ever need.",
+    "defaultFileId": 3003141,
+    "downloadCount": 396,
+    "latestFiles": [
+      {
+        "id": 3003141,
+        "displayName": "1.2",
+        "fileName": "DBM-VPDowbonesClassic.zip",
+        "fileDate": "2020-07-12T18:52:35.207Z",
+        "fileLength": 1423304,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3003/141/DBM-VPDowbonesClassic.zip",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "DBM-VPDowbonesClassic",
+            "fingerprint": 2847247796,
+            "type": 3
+          }
+        ],
+        "packageFingerprint": 2893284285,
+        "gameVersion": [
+          "1.13.5"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000013.0000000005",
+            "gameVersion": "1.13.5",
+            "gameVersionReleaseDate": "2020-07-07T00:00:00Z",
+            "gameVersionName": "1.13.5"
+          }
+        ],
+        "installMetadata": null,
+        "changelog": null,
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 1,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1920997,
+        "fileLegacyMappingId": null,
+        "projectId": 363640,
+        "parentProjectFileId": null,
+        "parentFileLegacyMappingId": null,
+        "fileTypeId": null,
+        "exposeAsAlternative": null,
+        "packageFingerprintId": 487262020,
+        "gameVersionDateReleased": "2020-07-07T00:00:00Z",
+        "gameVersionMappingId": 2317926,
+        "gameVersionId": 7957,
+        "gameId": 1,
+        "isServerPack": false,
+        "serverPackFileId": null,
+        "gameVersionFlavor": "wow_classic"
+      }
+    ],
+    "categories": [
+      {
+        "categoryId": 1019,
+        "name": "Combat",
+        "url": "https://www.curseforge.com/wow/addons/combat",
+        "avatarUrl": "https://media.forgecdn.net/avatars/54/455/636135209724699753.png",
+        "parentId": 1,
+        "rootId": 1,
+        "projectId": 363640,
+        "avatarId": 54455,
+        "gameId": 1
+      },
+      {
+        "categoryId": 1003,
+        "name": "Audio & Video",
+        "url": "https://www.curseforge.com/wow/addons/audio-video",
+        "avatarUrl": "https://media.forgecdn.net/avatars/54/439/636135209629718340.png",
+        "parentId": 1,
+        "rootId": 1,
+        "projectId": 363640,
+        "avatarId": 54439,
+        "gameId": 1
+      },
+      {
+        "categoryId": 1014,
+        "name": "Boss Encounters",
+        "url": "https://www.curseforge.com/wow/addons/boss-encounters",
+        "avatarUrl": "https://media.forgecdn.net/avatars/54/450/636135209695287536.png",
+        "parentId": 1,
+        "rootId": 1,
+        "projectId": 363640,
+        "avatarId": 54450,
+        "gameId": 1
+      }
+    ],
+    "status": 4,
+    "primaryCategoryId": 1014,
+    "categorySection": {
+      "id": 1,
+      "gameId": 1,
+      "name": "Addons",
+      "packageType": 1,
+      "path": "Interface\\Addons",
+      "initialInclusionPattern": "(?i)^([^/]+)[\\\\/]\\1\\.toc$",
+      "extraIncludePattern": "(?i)^[^/\\\\]+[/\\\\]Bindings\\.xml$",
+      "gameCategoryId": 1
+    },
+    "slug": "dbm-voice-pack-dowbones-classic",
+    "gameVersionLatestFiles": [
+      {
+        "gameVersion": "1.13.5",
+        "projectFileId": 3003141,
+        "projectFileName": "DBM-VPDowbonesClassic.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_classic"
+      },
+      {
+        "gameVersion": "1.13.3",
+        "projectFileId": 2885274,
+        "projectFileName": "DBM-VPDowbonesClassic.zip",
+        "fileType": 1,
+        "gameVersionFlavor": "wow_classic"
+      }
+    ],
+    "isFeatured": false,
+    "popularityScore": 50.466800689697266,
+    "gamePopularityRank": 3556,
+    "primaryLanguage": "enUS",
+    "gameSlug": "wow",
+    "gameName": "World of Warcraft",
+    "portalName": "www.curseforge.com",
+    "dateModified": "2020-07-12T18:55:57.293Z",
+    "dateCreated": "2020-02-20T03:06:51.867Z",
+    "dateReleased": "2020-07-12T18:52:35.207Z",
+    "isAvailable": true,
+    "isExperiemental": false
+  }
+]

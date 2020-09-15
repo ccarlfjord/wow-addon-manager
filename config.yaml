@@ -1,0 +1,14 @@
+providers:
+  github:
+    classic:
+      DBM-Classic:
+        source: https://github.com/DeadlyBossMods/DBM-Classic
+  curseforge:
+    classic:
+      NugEnergy:
+        id: "123"
+      Weakauras:
+        id: "456"
+
+
+
