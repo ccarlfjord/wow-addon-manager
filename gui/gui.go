@@ -7,30 +7,27 @@ import (
 	"github.com/gotk3/gotk3/gtk"
 )
 
-func Init() {
+type config struct {
+}
+
+func New() {
+
+}
+
+func Init(cfg config.Config) {
 	// Initialize GTK without parsing any command line arguments.
 	gtk.Init(nil)
 
 	// Create a new toplevel window, set its title, and connect it to the
 	// "destroy" signal to exit the GTK main loop when it is destroyed.
-	win, err := gtk.WindowNew(gtk.WINDOW_TOPLEVEL)
-	if err != nil {
-		log.Fatal("Unable to create window:", err)
-	}
-	win.SetTitle("Wow Addon Manager")
-	win.Connect("destroy", func() {
-		gtk.MainQuit()
-	})
+	win := windowNew()
 
 	mainBox, err := gtk.BoxNew(gtk.ORIENTATION_VERTICAL, 6)
 	if err != nil {
 		log.Fatal(err)
 	}
 
-	installedBox, err := BoxNew("Installed Addons")
-	if err != nil {
-		log.Fatal(err)
-	}
+	installedBox := BoxNew("Installed Addons")
 	installedBoxText, err := gtk.ComboBoxTextNew()
 	addons, err := addon.ReadDir("/home/charles/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns")
 	for _, addon := range addons {
@@ -38,7 +35,7 @@ func Init() {
 	}
 	installedBox.Add(installedBoxText)
 
-	searchBox, err := BoxNew("Search Addons")
+	searchBox := BoxNew("Search Addons")
 	if err != nil {
 		log.Fatal(err)
 	}

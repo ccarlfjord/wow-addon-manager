@@ -1,13 +1,11 @@
 package main
 
-import "github.com/ccarlfjord/wow-addon-manager/gui"
-
-const (
-	retail        = "_retail_"
-	classic       = "_classic_"
-	interfacePath = "Interface/AddOns"
+import (
+	"github.com/ccarlfjord/wow-addon-manager/config"
+	"github.com/ccarlfjord/wow-addon-manager/gui"
 )
 
 func main() {
-	gui.Init()
+	cfg := config.ReadFile("./config.yaml")
+	gui.Init(cfg)
 }

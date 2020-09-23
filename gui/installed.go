@@ -2,14 +2,12 @@ package gui
 
 import (
 	"github.com/ccarlfjord/wow-addon-manager/addon"
+	"github.com/ccarlfjord/wow-addon-manager/config"
 	"github.com/gotk3/gotk3/gtk"
 )
 
-func installedBoxNew() (*gtk.Box, error) {
-	b, err := BoxNew("Installed Addons")
-	if err != nil {
-		return b, err
-	}
+func installedBoxNew(cfg config.Config) (*gtk.Box, error) {
+	b := BoxNew("Installed Addons")
 	text, err := gtk.ComboBoxTextNew()
 	if err != nil {
 		return b, err

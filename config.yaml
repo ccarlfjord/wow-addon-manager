@@ -9,6 +9,6 @@ providers:
         id: "123"
       Weakauras:
         id: "456"
-
+gameDir: "/mnt/sde/Program/Battle.net/World of Warcraft"
 
 

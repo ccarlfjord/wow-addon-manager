@@ -1,11 +1,23 @@
 package config
 
 import (
+	"fmt"
 	"io/ioutil"
+	"log"
 	"os"
 
 	_ "github.com/mattn/go-sqlite3"
 	"gopkg.in/yaml.v2"
+)
+
+type GameType string
+
+const (
+	Classic GameType = "_classic_"
+	Retail           = "_retail_"
+)
+const (
+	InterfacePath = "Interface/AddOns"
 )
 
 type Addon struct {
@@ -20,22 +32,28 @@ type Provider struct {
 
 type Config struct {
 	Providers map[string]Provider `yaml:"providers"`
+	GameDir   string              `yaml:"gameDir"`
+	GameType
 }
 
-func FromFile(file string) (*Config, error) {
-	c := new(Config)
+func (c *Config) AddonDir() string {
+	return fmt.Sprintf("%s/%s/%s", c.GameDir, c.GameType, InterfacePath)
+}
+
+func ReadFile(file string) Config {
+	c := Config{}
 	f, err := os.Open(file)
 	defer f.Close()
 	if err != nil {
-		return c, err
+		log.Fatal(err.Error())
 	}
 	b, err := ioutil.ReadAll(f)
 	if err != nil {
-		return c, err
+		log.Fatal(err.Error())
 	}
-	unmarshalError := yaml.Unmarshal(b, c)
+	unmarshalError := yaml.Unmarshal(b, &c)
 	if unmarshalError != nil {
-		return c, err
+		log.Fatal(err.Error())
 	}
-	return c, nil
+	return c
 }
