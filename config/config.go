@@ -14,7 +14,7 @@ type GameType string
 
 const (
 	Classic GameType = "_classic_"
-	Retail           = "_retail_"
+	Retail  GameType = "_retail_"
 )
 const (
 	InterfacePath = "Interface/AddOns"
@@ -36,7 +36,13 @@ type Config struct {
 	GameType
 }
 
-func (c *Config) AddonDir() string {
+func (g *GameType) Get() {
+	if *g == "" {
+		*g = Classic // Default to classic
+	}
+}
+
+func (c *Config) GetAddonDir() string {
 	return fmt.Sprintf("%s/%s/%s", c.GameDir, c.GameType, InterfacePath)
 }
 

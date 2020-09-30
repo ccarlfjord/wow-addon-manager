@@ -3,16 +3,9 @@ package gui
 import (
 	"log"
 
-	"github.com/ccarlfjord/wow-addon-manager/addon"
+	"github.com/ccarlfjord/wow-addon-manager/config"
 	"github.com/gotk3/gotk3/gtk"
 )
-
-type config struct {
-}
-
-func New() {
-
-}
 
 func Init(cfg config.Config) {
 	// Initialize GTK without parsing any command line arguments.
@@ -27,15 +20,13 @@ func Init(cfg config.Config) {
 		log.Fatal(err)
 	}
 
-	installedBox := BoxNew("Installed Addons")
-	installedBoxText, err := gtk.ComboBoxTextNew()
-	addons, err := addon.ReadDir("/home/charles/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns")
-	for _, addon := range addons {
-		installedBoxText.AppendText(addon.Name)
-	}
-	installedBox.Add(installedBoxText)
+	installedBox, err := installedBoxNew(cfg)
 
-	searchBox := BoxNew("Search Addons")
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	searchBox, err := BoxNew("Search Addons")
 	if err != nil {
 		log.Fatal(err)
 	}

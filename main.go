@@ -7,5 +7,6 @@ import (
 
 func main() {
 	cfg := config.ReadFile("./config.yaml")
+	cfg.GameType.Get()
 	gui.Init(cfg)
 }

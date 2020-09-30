@@ -1,21 +1,19 @@
 package gui
 
 import (
-	"log"
-
 	"github.com/gotk3/gotk3/gtk"
 )
 
-func BoxNew(name string) *gtk.Box {
+func BoxNew(name string) (*gtk.Box, error) {
 	b, err := gtk.BoxNew(gtk.ORIENTATION_VERTICAL, 6)
 	if err != nil {
-		log.Fatal(err.Error())
+		return b, err
 	}
 
 	label, err := gtk.LabelNew(name)
 	if err != nil {
-		log.Fatal(err.Error())
+		return b, err
 	}
 	b.Add(label)
-	return b
+	return b, nil
 }

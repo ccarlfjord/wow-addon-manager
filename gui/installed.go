@@ -7,13 +7,29 @@ import (
 )
 
 func installedBoxNew(cfg config.Config) (*gtk.Box, error) {
-	b := BoxNew("Installed Addons")
+	b, err := BoxNew("Installed Addons")
+	if err != nil {
+		return b, err
+	}
+
+	c := make(chan addon.Addon, 0)
+	go func() error {
+		addons, err := addon.ReadDir(cfg.GetAddonDir())
+		if err != nil {
+			return err
+		}
+		for _, addon := range addons {
+			c <- addon
+		}
+		close(c)
+		return nil
+	}()
+
 	text, err := gtk.ComboBoxTextNew()
 	if err != nil {
 		return b, err
 	}
-	addons, err := addon.ReadDir("/home/charles/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft/_classic_/Interface/AddOns")
-	for _, addon := range addons {
+	for addon := range c {
 		text.AppendText(addon.Name)
 	}
 	b.Add(text)
