@@ -12,7 +12,7 @@ func installedBoxNew(cfg config.Config) (*gtk.Box, error) {
 		return b, err
 	}
 
-	c := make(chan addon.Addon, 0)
+	c := make(chan addon.Addon)
 	go func() error {
 		addons, err := addon.ReadDir(cfg.GetAddonDir())
 		if err != nil {
@@ -33,5 +33,10 @@ func installedBoxNew(cfg config.Config) (*gtk.Box, error) {
 		text.AppendText(addon.Name)
 	}
 	b.Add(text)
+	btn, err := newUpdateButton()
+	if err != nil {
+		return b, err
+	}
+	b.PackEnd(btn, true, false, 0)
 	return b, nil
 }
