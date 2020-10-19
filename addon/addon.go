@@ -42,8 +42,10 @@ func ReadDir(s string) ([]Addon, error) {
 			}
 			toc := tocReader(f)
 			a.TOC = toc
-			addons = append(addons, a)
-
+			fmt.Println(toc.RequiredDeps)
+			if toc.RequiredDeps == "" || toc.Dependencies == "" {
+				addons = append(addons, a)
+			}
 		}
 	}
 	return addons, nil

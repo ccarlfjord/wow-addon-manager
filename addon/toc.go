@@ -11,11 +11,13 @@ import (
 // Not all fields implemented
 // https://wowwiki.fandom.com/wiki/TOC_format
 type TOC struct {
-	Interface string
-	Title     string
-	Notes     string
-	Author    string
-	Version   string
+	Interface    string
+	Title        string
+	Notes        string
+	Author       string
+	Version      string
+	RequiredDeps string
+	Dependencies string
 	// defaultState string
 	// savedVariables string
 }
