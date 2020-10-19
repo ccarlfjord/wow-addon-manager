@@ -5,7 +5,7 @@ import (
 )
 
 func BoxNew(name string) (*gtk.Box, error) {
-	b, err := gtk.BoxNew(gtk.ORIENTATION_VERTICAL, 6)
+	b, err := gtk.BoxNew(gtk.ORIENTATION_VERTICAL, 3)
 	if err != nil {
 		return b, err
 	}

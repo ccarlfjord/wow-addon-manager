@@ -42,7 +42,7 @@ func NewProvider() *Provider {
 }
 
 // Search searches for addon on curseforge
-func (p *Provider) Search(name, version string) ([]SearchResult, error) {
+func Search(name, version string) ([]SearchResult, error) {
 	u, err := url.Parse(baseURL)
 	u.Path += "search"
 	if err != nil {
@@ -78,7 +78,7 @@ func get(url string) ([]byte, error) {
 	body, err := ioutil.ReadAll(resp.Body)
 	return body, nil
 }
-func (p *Provider) Install() {
+func (p *Provider) Install(dir string) {
 
 }
 func (p *Provider) Download() {

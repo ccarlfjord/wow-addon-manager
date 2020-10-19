@@ -1,20 +1,21 @@
 package gui
 
 import (
+	"fmt"
+
 	"github.com/ccarlfjord/wow-addon-manager/addon"
-	"github.com/ccarlfjord/wow-addon-manager/config"
 	"github.com/gotk3/gotk3/gtk"
 )
 
-func installedBoxNew(cfg config.Config) (*gtk.Box, error) {
-	b, err := BoxNew("Installed Addons")
+func (g *gui) installedBoxNew() (*gtk.Box, error) {
+	b, err := BoxNew("Update Addon")
 	if err != nil {
 		return b, err
 	}
 
 	c := make(chan addon.Addon)
 	go func() error {
-		addons, err := addon.ReadDir(cfg.GetAddonDir())
+		addons, err := addon.ReadDir(g.cfg.GetAddonDir())
 		if err != nil {
 			return err
 		}
@@ -30,13 +31,17 @@ func installedBoxNew(cfg config.Config) (*gtk.Box, error) {
 		return b, err
 	}
 	for addon := range c {
-		text.AppendText(addon.Name)
+		text.Insert(-1, addon.Name, addon.Name)
 	}
+	text.Insert(0, "all", "All")
 	b.Add(text)
 	btn, err := newUpdateButton()
 	if err != nil {
 		return b, err
 	}
-	b.PackEnd(btn, true, false, 0)
+	btn.Connect("clicked", func() {
+		fmt.Println(text.GetActiveID())
+	})
+	b.PackStart(btn, true, false, 3)
 	return b, nil
 }

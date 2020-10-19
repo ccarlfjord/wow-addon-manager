@@ -7,6 +7,7 @@ import (
 	"os"
 
 	_ "github.com/mattn/go-sqlite3"
+	"go.uber.org/zap"
 	"gopkg.in/yaml.v2"
 )
 
@@ -34,6 +35,7 @@ type Config struct {
 	Providers map[string]Provider `yaml:"providers"`
 	GameDir   string              `yaml:"gameDir"`
 	GameType
+	Logger *zap.SugaredLogger
 }
 
 func (g *GameType) Get() {

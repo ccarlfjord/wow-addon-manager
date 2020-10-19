@@ -11,11 +11,14 @@ import (
 // Not all fields implemented
 // https://wowwiki.fandom.com/wiki/TOC_format
 type TOC struct {
-	Interface string
-	Title     string
-	Notes     string
-	Author    string
-	Version   string
+	Interface    string
+	Title        string
+	Notes        string
+	Author       string
+	Version      string
+	RequiredDeps string
+	Dependencies string
+	OptionalDeps string
 	// defaultState string
 	// savedVariables string
 }
@@ -71,4 +74,8 @@ func (c *TOC) setField(key, value string) error {
 	fieldVal.Set(val)
 
 	return nil
+}
+
+func (t *TOC) SplitDependencies() []string {
+	return strings.Split(t.RequiredDeps, ",")
 }

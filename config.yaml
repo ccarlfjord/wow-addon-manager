@@ -9,4 +9,6 @@ providers:
         id: "123"
       Weakauras:
         id: "456"
-gameDir: "/home/charles/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft"
+gameDir: "/mnt/sde/Program/Battle.net/World of Warcraft"
+
+

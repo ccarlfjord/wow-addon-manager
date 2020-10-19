@@ -31,19 +31,28 @@ func ReadDir(s string) ([]Addon, error) {
 	}
 	for _, f := range files {
 		if f.IsDir() {
+			name := f.Name()
+			path := fmt.Sprintf("%s/%s/", s, name)
+			tocFile := f.Name() + ".toc"
+			_, err := os.Stat(path + tocFile)
+			if err != nil {
+				return nil, err
+			}
 			a := Addon{}
-			a.Name = f.Name()
+			a.Name = name
 			a.setDefaultProvider()
-			p := fmt.Sprintf("%s/%s/%s.toc", s, a.Name, a.Name)
-			f, err := os.Open(p)
+			tocPath := fmt.Sprintf("%s/%s/%s", s, name, tocFile)
+			f, err := os.Open(tocPath)
 			defer f.Close()
 			if err != nil {
-				return addons, fmt.Errorf("Error opening %s: %v", p, err)
+				return addons, fmt.Errorf("Error opening %s: %v", tocPath, err)
 			}
 			toc := tocReader(f)
 			a.TOC = toc
-			addons = append(addons, a)
-
+			fmt.Println(toc.RequiredDeps)
+			if toc.RequiredDeps == "" || toc.Dependencies == "" {
+				addons = append(addons, a)
+			}
 		}
 	}
 	return addons, nil
