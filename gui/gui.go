@@ -12,8 +12,8 @@ type gui struct {
 	cfg config.Config
 }
 
-// Init GUI component
-func Init(cfg config.Config) {
+// Start GUI component
+func Start(cfg config.Config) {
 	// Initialize GTK without parsing any command line arguments.
 	gtk.Init(nil)
 

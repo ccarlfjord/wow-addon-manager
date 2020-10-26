@@ -1,7 +1,11 @@
 package main
 
 import (
+	"fmt"
+	"os"
+
 	"github.com/ccarlfjord/wow-addon-manager/config"
+	"github.com/ccarlfjord/wow-addon-manager/gui"
 	"go.uber.org/zap"
 )
 
@@ -15,6 +19,16 @@ func main() {
 		panic(err.Error())
 	}
 	cfg.Logger = logger.Sugar()
+
+	// Run GUI if no flags were given
+	args := os.Args[1:]
+	if len(args) > 0 {
+		if args[0] == "" {
+			fmt.Println(args[0])
+		}
+	} else {
+		gui.Start(cfg)
+	}
 
 	// log := cfg.Logger
 
