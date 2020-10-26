@@ -1,10 +1,13 @@
 package addon
 
-import "testing"
+import (
+	"path/filepath"
+	"testing"
+)
 
 func TestGetLastAddonVersion(t *testing.T) {
 	ver := "_classic_"
-	dir := "/home/charles/Games/battlenet/drive_c/Program Files (x86)/World of Warcraft"
+	dir := filepath.Join("../", "test")
 	res, err := GetLastAddonVersion(dir, ver)
 	if err != nil {
 		t.Error(err)

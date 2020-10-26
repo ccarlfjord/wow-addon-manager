@@ -76,6 +76,6 @@ func (c *TOC) setField(key, value string) error {
 	return nil
 }
 
-func (t *TOC) SplitDependencies() []string {
-	return strings.Split(t.RequiredDeps, ",")
+func (t *TOC) splitLine(s string) []string {
+	return strings.Split(s, ",")
 }
